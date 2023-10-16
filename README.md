@@ -1,7 +1,9 @@
 # Wallmart-sales-data
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. 
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+
 Questions to answer:
+
 How many unique cities does the data have?
 In which city is each branch?
 Product
